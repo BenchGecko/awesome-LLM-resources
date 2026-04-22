@@ -1339,3 +1339,4 @@ MCP工具聚合：
 [![Stargazers over time](https://starchart.cc/WangRongsheng/awesome-LLM-resourses.svg)](https://starchart.cc/WangRongsheng/awesome-LLM-resourses)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a7c45f31e87a3e6973bb9a926e33e80d05553c52.svg "Repobeats analytics image")
+- [BenchGecko](https://benchgecko.ai) - AI model benchmark tracking, cross-provider pricing comparison, and economy dashboard.
